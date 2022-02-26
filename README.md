@@ -70,7 +70,7 @@ A list of free resources that can help in the acquisition of open source intelli
 
 
 ## Maps/Geographical Data
-### [Kiev Street Views](https://www.instantstreetview.com/@50.450139,30.524395,129.53h,13.73p,0.83z,JjY0gzkm9eQ2F1zDu__eDQ)
+### [Instant Street Views](https://www.instantstreetview.com/@50.450139,30.524395,129.53h,13.73p,0.83z,JjY0gzkm9eQ2F1zDu__eDQ)
 * Instant street view tool to help geolocate images and videos.
 * https://www.instantstreetview.com/
 ### [WikiMapia](https://wikimapia.org)

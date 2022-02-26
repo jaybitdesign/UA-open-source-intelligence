@@ -43,6 +43,12 @@ A list of free resources that can help in the acquisition of open source intelli
 
 
 ## Translation/OCR
+### [Morse Code Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+* Allows you to decode morese code from audio files.
+* https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+### [Morse Code Translator](https://morsecode.world/international/translator.html)
+* Allows you to translate morse code from text.
+* https://morsecode.world/international/translator.html
 ### [i2 OCR](https://www.i2ocr.com/)
 * Extracts text from images and scanned documents.
 * https://www.i2ocr.com/

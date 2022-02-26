@@ -42,7 +42,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://website.informer.com/
 
 
-## Translation/OCR
+# Translation/OCR
 ### [Morse Code Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
 * Allows you to decode morese code from audio files.
 * https://morsecode.world/international/decoder/audio-decoder-adaptive.html
@@ -69,7 +69,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://www.google.com/inputtools/try/
 
 
-## Maps/Geographical Data
+# Maps/Geographical Data
 ### [Instant Street Views](https://www.instantstreetview.com/@50.450139,30.524395,129.53h,13.73p,0.83z,JjY0gzkm9eQ2F1zDu__eDQ)
 * Instant street view tool to help geolocate images and videos.
 * https://www.instantstreetview.com/
@@ -87,7 +87,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://www.saveecobot.com/en/radiation-maps#10/51.2993/30.0023/gamma/
 
 
-## Radio Communications
+# Radio Communications
 ### [Software-Defined Radio](http://www.websdr.org/)
 * Software-Defined Radio receivers connected to the internet.
 * http://websdr.org/
@@ -114,7 +114,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * http://sdr.so8oo.net/
 
 
-## Vessel/Aircraft Tracking
+# Vessel/Aircraft Tracking
 ### [Flight Radar 24](https://www.flightradar24.com/)
 * The world’s most popular flight tracker.
 * https://www.flightradar24.com/

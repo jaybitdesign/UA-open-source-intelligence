@@ -1,4 +1,4 @@
-![Ukraine Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png)
+![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)
 # open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 ### Table of Contents:

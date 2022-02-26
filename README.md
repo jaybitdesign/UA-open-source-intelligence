@@ -2,8 +2,12 @@
 ### Table of Contents:
 * [Intelligence Reporting](#intelligence-reporting)
 * [Network/Internet](#networkinternet)
-* [Translation/WCR](#translationwcr)
-* [Translation/WCR](#translationwcr)
+* [Translation/WCR](#translationocr)
+* [Maps/Geographical Data](#mapsgeographical-data)
+* [Radio Communications](#radio-communications)
+* [Vessel/Aircraft Tracking](#vesselaircraft-tracking)
+
+
 
 ## Intelligence Reporting
 ### [Ukraine Defence Ministry](https://gur.gov.ua/en/content/contacts.html)

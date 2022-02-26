@@ -1,4 +1,5 @@
 # open-source-intelligence
+A list of free resources that can help in the acquisition of open source intelligence.
 ### Table of Contents:
 * [Intelligence Reporting](#intelligence-reporting)
 * [Network/Internet](#networkinternet)

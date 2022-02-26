@@ -5,7 +5,7 @@
 * https://gur.gov.ua/en/content/contacts
 
 
-## Network & Internet
+## Network/Internet
 ### [CloudFlare Radar](https://radar.cloudflare.com/)
 * Shows network traffic all over the world.
 * https://radar.cloudflare.com/
@@ -23,7 +23,7 @@
 * https://website.informer.com/
 
 
-## Translation & OCR
+## Translation/OCR
 ### [i2 OCR](https://www.i2ocr.com/)
 * Extracts text from images and scanned documents.
 * https://www.i2ocr.com/
@@ -44,7 +44,7 @@
 * https://www.google.com/inputtools/try/
 
 
-## Maps & Geographical Data
+## Maps/Geographical Data
 ### [Kiev Street Views](https://www.instantstreetview.com/@50.450139,30.524395,129.53h,13.73p,0.83z,JjY0gzkm9eQ2F1zDu__eDQ)
 * Instant street view tool to help geolocate images and videos.
 * https://www.instantstreetview.com/
@@ -78,7 +78,7 @@
 * http://84.201.157.25:26057/
 
 
-## Vessel & Aircraft Tracking
+## Vessel/Aircraft Tracking
 ### [Flight Radar 24](https://www.flightradar24.com/)
 * The world’s most popular flight tracker.
 * https://www.flightradar24.com/

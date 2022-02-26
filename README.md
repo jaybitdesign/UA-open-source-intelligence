@@ -1,6 +1,10 @@
 # open-source-intelligence
-#### Table of Contents
+### Table of Contents:
 * [Intelligence Reporting](#intelligence-reporting)
+* [Network/Internet](#networkinternet)
+* [Translation/WCR](#translationwcr)
+* [Translation/WCR](#translationwcr)
+
 ## Intelligence Reporting
 ### [Ukraine Defence Ministry](https://gur.gov.ua/en/content/contacts.html)
 * Report defence intelligence to the Ministry of Defence of Ukraine.

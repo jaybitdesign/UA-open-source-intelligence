@@ -16,8 +16,12 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://gur.gov.ua/en/content/contacts
 
 ### [Ukraine Secret Service](https://www.facebook.com/SecurSerUkraine)
-* Report defence intelligence to the Ukraine Secret Service
+* Report defence intelligence to the Ukraine Secret Service.
 * https://www.facebook.com/SecurSerUkraine
+
+### [@stop_russian_war Telegram](https://t.me/stop_russian_war_bot)
+* Send intelligence to the official Secret Services telegram.
+* https://t.me/stop_russian_war_bot
 
 
 ## Network/Internet

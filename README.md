@@ -15,6 +15,10 @@ A list of free resources that can help in the acquisition of open source intelli
 * Report defence intelligence to the Ministry of Defence of Ukraine.
 * https://gur.gov.ua/en/content/contacts
 
+### [Ukraine Secret Service](https://www.facebook.com/SecurSerUkraine)
+* Report defence intelligence to the Ukraine Secret Service
+* https://www.facebook.com/SecurSerUkraine
+
 
 ## Network/Internet
 ### [CloudFlare Radar](https://radar.cloudflare.com/)

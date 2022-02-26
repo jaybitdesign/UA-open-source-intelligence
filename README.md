@@ -1,12 +1,12 @@
 # open-source-intelligence
 ## Network & Internet
-## [CloudFlare Radar](https://radar.cloudflare.com/)
+### [CloudFlare Radar](https://radar.cloudflare.com/)
 * Shows network traffic all over the world.
 * https://radar.cloudflare.com/
 
 
 ## Maps & Geographical Data
-### [WikiMapia](https://wikimapia.org)
+#### [WikiMapia](https://wikimapia.org)
 * Shows military bases around the world.
 * https://wikimapia.org
 

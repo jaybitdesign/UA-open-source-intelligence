@@ -106,6 +106,9 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Romania Web SDR](http://sdr.yo3ksr.ro:8073/)
 * Web SDR receiver located in Romania.
 * http://sdr.yo3ksr.ro:8073/
+### [Poland Web SDR](http://sdr.so8oo.net/)
+* Web SDR receiver located in Poland.
+* http://sdr.so8oo.net/
 
 
 ## Vessel/Aircraft Tracking

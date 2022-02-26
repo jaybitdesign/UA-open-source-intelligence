@@ -91,6 +91,9 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Software-Defined Radio](http://www.websdr.org/)
 * Software-Defined Radio receivers connected to the internet.
 * http://websdr.org/
+### [Ukraine Web SDR](http://dnepr.rx-tx.info:8901/)
+* Web SDR located in Ukraine.
+* http://dnepr.rx-tx.info:8901/
 ### [Netherlands Web SDR (Record)](http://websdr.ewi.utwente.nl:8901/)
 * Record from Web SBR in the Netherlands.
 * http://websdr.ewi.utwente.nl:8901/

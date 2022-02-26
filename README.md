@@ -20,7 +20,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://www.facebook.com/SecurSerUkraine
 
 ### [@stop_russian_war Telegram](https://t.me/stop_russian_war_bot)
-* Send intelligence to the official Secret Services telegram.
+* Send defence intelligence to the official Secret Services telegram.
 * https://t.me/stop_russian_war_bot
 
 

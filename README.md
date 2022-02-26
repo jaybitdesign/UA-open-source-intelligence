@@ -10,7 +10,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * [Vessel/Aircraft Tracking](#vesselaircraft-tracking)
 
 
-## Intelligence Reporting
+# Intelligence Reporting
 ### [Ukraine Defence Ministry](https://gur.gov.ua/en/content/contacts.html)
 * Report defence intelligence to the Ministry of Defence of Ukraine.
 * https://gur.gov.ua/en/content/contacts
@@ -24,7 +24,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://t.me/stop_russian_war_bot
 
 
-## Network/Internet
+# Network/Internet
 ### [CloudFlare Radar](https://radar.cloudflare.com/)
 * Shows network traffic all over the world.
 * https://radar.cloudflare.com/

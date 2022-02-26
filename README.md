@@ -63,9 +63,19 @@
 
 
 ## Radio Communications
-### [Netherlands Web Radio](http://websdr.ewi.utwente.nl:8901/)
-* Listen in to and record live radio.
+### [Software-Defined Radio](http://www.websdr.org/)
+* Software-Defined Radio receivers connected to the internet.
 * http://websdr.org/
+### [Netherlands WebSDR](http://websdr.ewi.utwente.nl:8901/)
+* Listen in to and record live radio from the Netherlands.
+* http://websdr.ewi.utwente.nl:8901/
+### [Maasbree Netherlands WebSDR ](http://sdr.websdrmaasbree.nl:8901/)
+* WebSDR in Maasbree Netherlands.
+* Listen to live radio from the Netherlands.
+* http://sdr.websdrmaasbree.nl:8901/
+### [Russia Web Radio](http://84.201.157.25:26057/)
+* WebSDR receiver located in Russia. It is operated by R2AJI.
+* http://84.201.157.25:26057/
 
 
 ## Vessel & Aircraft Tracking

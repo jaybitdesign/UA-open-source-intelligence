@@ -4,7 +4,7 @@ A list of free resources that can help in the acquisition of open source intelli
 ### Table of Contents:
 * [Intelligence Reporting](#intelligence-reporting)
 * [Network/Internet](#networkinternet)
-* [Translation/WCR](#translationocr)
+* [Translation/OCR](#translationocr)
 * [Maps/Geographical Data](#mapsgeographical-data)
 * [Radio Communications](#radio-communications)
 * [Vessel/Aircraft Tracking](#vesselaircraft-tracking)

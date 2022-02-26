@@ -89,12 +89,14 @@ A list of free resources that can help in the acquisition of open source intelli
 * Listen in to and record live radio from the Netherlands.
 * http://websdr.ewi.utwente.nl:8901/
 ### [Maasbree Netherlands WebSDR ](http://sdr.websdrmaasbree.nl:8901/)
-* WebSDR in Maasbree Netherlands.
-* Listen to live radio from the Netherlands.
+* Web SDR located in Maasbree Netherlands.
 * http://sdr.websdrmaasbree.nl:8901/
-### [Russia Web Radio](http://84.201.157.25:26057/)
-* WebSDR receiver located in Russia. It is operated by R2AJI.
+### [Russia Web SDR](http://84.201.157.25:26057/)
+* Web SDR receiver located in Russia. It is operated by R2AJI.
 * http://84.201.157.25:26057/
+### [Hungary Web SDR](http://fsdr.duckdns.org/?f=4649.50usbz0)
+* Web SDR receiver located in Szekesfehervar, Hungary
+* http://fsdr.duckdns.org/?f=4649.50usbz0
 
 
 ## Vessel/Aircraft Tracking

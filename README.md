@@ -10,13 +10,21 @@ A list of free resources that can help in the acquisition of open source intelli
 * [Vessel/Aircraft Tracking](#vesselaircraft-tracking)
 
 
-## Intelligence Reporting
+# Intelligence Reporting
 ### [Ukraine Defence Ministry](https://gur.gov.ua/en/content/contacts.html)
 * Report defence intelligence to the Ministry of Defence of Ukraine.
 * https://gur.gov.ua/en/content/contacts
 
+### [Ukraine Secret Service](https://www.facebook.com/SecurSerUkraine)
+* Report defence intelligence to the Ukraine Secret Service.
+* https://www.facebook.com/SecurSerUkraine
 
-## Network/Internet
+### [@stop_russian_war Telegram](https://t.me/stop_russian_war_bot)
+* Send defence intelligence to the official Secret Services telegram.
+* https://t.me/stop_russian_war_bot
+
+
+# Network/Internet
 ### [CloudFlare Radar](https://radar.cloudflare.com/)
 * Shows network traffic all over the world.
 * https://radar.cloudflare.com/
@@ -34,7 +42,13 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://website.informer.com/
 
 
-## Translation/OCR
+# Translation/OCR
+### [Morse Code Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+* Allows you to decode morese code from audio files.
+* https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+### [Morse Code Translator](https://morsecode.world/international/translator.html)
+* Allows you to translate morse code from text.
+* https://morsecode.world/international/translator.html
 ### [i2 OCR](https://www.i2ocr.com/)
 * Extracts text from images and scanned documents.
 * https://www.i2ocr.com/
@@ -55,8 +69,8 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://www.google.com/inputtools/try/
 
 
-## Maps/Geographical Data
-### [Kiev Street Views](https://www.instantstreetview.com/@50.450139,30.524395,129.53h,13.73p,0.83z,JjY0gzkm9eQ2F1zDu__eDQ)
+# Maps/Geographical Data
+### [Instant Street Views](https://www.instantstreetview.com/@50.450139,30.524395,129.53h,13.73p,0.83z,JjY0gzkm9eQ2F1zDu__eDQ)
 * Instant street view tool to help geolocate images and videos.
 * https://www.instantstreetview.com/
 ### [WikiMapia](https://wikimapia.org)
@@ -73,23 +87,34 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://www.saveecobot.com/en/radiation-maps#10/51.2993/30.0023/gamma/
 
 
-## Radio Communications
+# Radio Communications
 ### [Software-Defined Radio](http://www.websdr.org/)
 * Software-Defined Radio receivers connected to the internet.
 * http://websdr.org/
-### [Netherlands WebSDR](http://websdr.ewi.utwente.nl:8901/)
-* Listen in to and record live radio from the Netherlands.
+### [Ukraine Web SDR](http://dnepr.rx-tx.info:8901/)
+* Web SDR located in Ukraine.
+* http://dnepr.rx-tx.info:8901/
+### [Netherlands Web SDR (Record)](http://websdr.ewi.utwente.nl:8901/)
+* Record from Web SBR in the Netherlands.
 * http://websdr.ewi.utwente.nl:8901/
-### [Maasbree Netherlands WebSDR ](http://sdr.websdrmaasbree.nl:8901/)
-* WebSDR in Maasbree Netherlands.
-* Listen to live radio from the Netherlands.
+### [Maasbree Netherlands Web SDR ](http://sdr.websdrmaasbree.nl:8901/)
+* Web SDR located in Maasbree Netherlands.
 * http://sdr.websdrmaasbree.nl:8901/
-### [Russia Web Radio](http://84.201.157.25:26057/)
-* WebSDR receiver located in Russia. It is operated by R2AJI.
+### [Russia Web SDR](http://84.201.157.25:26057/)
+* Web SDR receiver located in Russia. It is operated by R2AJI.
 * http://84.201.157.25:26057/
+### [Hungary Web SDR](http://fsdr.duckdns.org/?f=4649.50usbz0)
+* Web SDR receiver located in Szekesfehervar, Hungary
+* http://fsdr.duckdns.org/?f=4649.50usbz0
+### [Romania Web SDR](http://sdr.yo3ksr.ro:8073/)
+* Web SDR receiver located in Romania.
+* http://sdr.yo3ksr.ro:8073/
+### [Poland Web SDR](http://sdr.so8oo.net/)
+* Web SDR receiver located in Poland.
+* http://sdr.so8oo.net/
 
 
-## Vessel/Aircraft Tracking
+# Vessel/Aircraft Tracking
 ### [Flight Radar 24](https://www.flightradar24.com/)
 * The world’s most popular flight tracker.
 * https://www.flightradar24.com/

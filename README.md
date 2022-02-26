@@ -85,10 +85,10 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Software-Defined Radio](http://www.websdr.org/)
 * Software-Defined Radio receivers connected to the internet.
 * http://websdr.org/
-### [Netherlands WebSDR](http://websdr.ewi.utwente.nl:8901/)
-* Listen in to and record live radio from the Netherlands.
+### [Netherlands Web SDR (Record)](http://websdr.ewi.utwente.nl:8901/)
+* Record from Web SBR in the Netherlands.
 * http://websdr.ewi.utwente.nl:8901/
-### [Maasbree Netherlands WebSDR ](http://sdr.websdrmaasbree.nl:8901/)
+### [Maasbree Netherlands Web SDR ](http://sdr.websdrmaasbree.nl:8901/)
 * Web SDR located in Maasbree Netherlands.
 * http://sdr.websdrmaasbree.nl:8901/
 ### [Russia Web SDR](http://84.201.157.25:26057/)
@@ -97,6 +97,9 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Hungary Web SDR](http://fsdr.duckdns.org/?f=4649.50usbz0)
 * Web SDR receiver located in Szekesfehervar, Hungary
 * http://fsdr.duckdns.org/?f=4649.50usbz0
+### [Romania Web SDR](http://sdr.yo3ksr.ro:8073/)
+* Web SDR receiver located in Romania.
+* http://sdr.yo3ksr.ro:8073/
 
 
 ## Vessel/Aircraft Tracking

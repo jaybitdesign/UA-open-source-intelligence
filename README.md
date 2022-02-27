@@ -14,17 +14,18 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Ukraine Defence Ministry](https://gur.gov.ua/en/content/contacts.html)
 * Report defence intelligence to the Ministry of Defence of Ukraine.
 * https://gur.gov.ua/en/content/contacts
-
 ### [Ukraine Secret Service](https://www.facebook.com/SecurSerUkraine)
 * Report defence intelligence to the Ukraine Secret Service.
 * https://www.facebook.com/SecurSerUkraine
-
 ### [@stop_russian_war Telegram](https://t.me/stop_russian_war_bot)
 * Send defence intelligence to the official Secret Services telegram.
 * https://t.me/stop_russian_war_bot
 
 
 # Network/Internet
+### [Horizon Live DDoS Map](https://horizon.netscout.com/)
+* Provides a highly contextualized real-time view of DDoS attacks.
+* https://horizon.netscout.com/
 ### [CloudFlare Radar](https://radar.cloudflare.com/)
 * Shows network traffic all over the world.
 * https://radar.cloudflare.com/
@@ -70,6 +71,15 @@ A list of free resources that can help in the acquisition of open source intelli
 
 
 # Maps/Geographical Data
+### [Ukraine Air Quality](https://www.breezometer.com/air-quality-map/air-quality/ukraine/kyiv)
+* Check the Air Quality in Kyiv, Ukraine
+* https://www.breezometer.com/air-quality-map/air-quality/ukraine/kyiv
+### [Ukraine Air Pollution](https://aqicn.org/map/ukraine/)
+* Real-time Air Quality Index Visual Map.
+* https://aqicn.org/map/ukraine/
+### [World Air Pollution](https://waqi.info/#/c/49.407/24.907/8.2z)
+* A real-time air pollution map for the world.
+* https://waqi.info/#/c/49.407/24.907/8.2z
 ### [Instant Street Views](https://www.instantstreetview.com/@50.450139,30.524395,129.53h,13.73p,0.83z,JjY0gzkm9eQ2F1zDu__eDQ)
 * Instant street view tool to help geolocate images and videos.
 * https://www.instantstreetview.com/

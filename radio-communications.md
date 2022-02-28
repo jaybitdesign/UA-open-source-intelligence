@@ -1,5 +1,3 @@
-![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)
-
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 
@@ -38,3 +36,5 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Poland Web SDR](http://sdr.so8oo.net/)
 * Web SDR receiver located in Poland.
 * http://sdr.so8oo.net/
+
+![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)

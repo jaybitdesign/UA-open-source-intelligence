@@ -1,5 +1,3 @@
-![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)
-
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 
@@ -68,3 +66,5 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [BBC Journalist Myroslava Petsa](https://twitter.com/myroslavapetsa)
 * BBC Journalist Myroslava Petsa, (at the time of writing) in Kyiv.
 * https://twitter.com/myroslavapetsa
+
+![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)

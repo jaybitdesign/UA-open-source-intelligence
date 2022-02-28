@@ -1,5 +1,3 @@
-![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)
-
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 
@@ -38,3 +36,6 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Google Input Tools](https://www.google.com/inputtools/try/)
 * Makes it easy to type in any language you choose.
 * https://www.google.com/inputtools/try/
+
+![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)
+

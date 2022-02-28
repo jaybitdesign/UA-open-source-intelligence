@@ -35,3 +35,5 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [The Kyiv Post](https://twitter.com/KyivPost)
 * Kyiv Post is the top source of English-language news about Ukraine since 1995.
 * https://twitter.com/KyivPost
+
+![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)

@@ -7,7 +7,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * [Reputuable Non-Ukrainian News](/reputable-non-ukrainian-news.md)
 * [Network & Internet](/network-internet.md)
 * [Translation & OCR's](/translation-ocr.md)
-* [Maps & Geographical Data](/maps-geological-data.md)
+* [Maps & Geographical Data](/maps-geographical-data.md)
 * [Radio Communications & SDR's](/radio-communications.md)
 * [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)
 

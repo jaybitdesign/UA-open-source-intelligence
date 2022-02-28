@@ -3,6 +3,16 @@
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 
+# Table of Contents:
+* [Intelligence Reporting](/README.md)
+* [Reputuable Ukrainian News](/reputable-ukrainian-news.md)
+* [Reputuable Non-Ukrainian News](/reputable-non-ukrainian-news.md)
+* [Network & Internet](/network-internet.md)
+* [Translation & OCR's](/translation-ocr.md)
+* [Maps & Geographical Data](/maps-geological-data.md)
+* [Radio Communications & SDR's](/radio-communications.md)
+* [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)
+
 # Radio Communications
 ### [Software-Defined Radio](http://www.websdr.org/)
 * Software-Defined Radio receivers connected to the internet.

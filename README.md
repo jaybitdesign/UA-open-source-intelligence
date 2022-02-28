@@ -3,6 +3,8 @@
 A list of free resources that can help in the acquisition of open source intelligence.
 ### Table of Contents:
 * [Intelligence Reporting](#intelligence-reporting)
+* [Reputuable Ukrainian News](#reputable-ukrainian-news)
+* [Reputuable Non-Ukrainian News](#reputable-non-ukrainian-news)
 * [Network/Internet](#networkinternet)
 * [Translation/OCR](#translationocr)
 * [Maps/Geographical Data](#mapsgeographical-data)
@@ -20,6 +22,67 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [@stop_russian_war Telegram](https://t.me/stop_russian_war_bot)
 * Send defence intelligence to the official Secret Services telegram.
 * https://t.me/stop_russian_war_bot
+
+
+# Reputable Ukrainian News
+* https://www.bellingcat.com/about/
+### [UA Ministry of Defense](https://twitter.com/defenceu)
+* Ukraine Ministry of Defense Twitter account.
+* https://twitter.com/defenceu
+### [UA Land Forces](https://facebook.com/UkrainianLandForces)
+* Ukrainian Land Forces Facebook account.
+* https://facebook.com/UkrainianLandForces
+### [President Vladimir Zelensky's Twitter](https://twitter.com/ZelenskyyUa)
+* The Ukrainian President's Twitter feed.
+* https://twitter.com/ZelenskyyUa
+### [Minister of Foreign Affairs Dmytro Kuleba's Twitter](https://twitter.com/DmytroKuleba)
+* The Ukranian Minister of Foreign Affairs Twitter feed.
+* https://twitter.com/DmytroKuleba
+### [The Kyiv Independent](https://twitter.com/KyivIndependent)\
+* Top-notch English-language journalism in Ukraine.
+* https://twitter.com/KyivIndependent
+### [The Kyiv Post](https://twitter.com/KyivPost)
+* Kyiv Post is the top source of English-language news about Ukraine since 1995.
+* https://twitter.com/KyivPost
+
+# Reputable Non-Ukrainian News
+### [NATO's Twitter](https://mobile.twitter.com/NATO)
+* NATO's Twitter feed.
+* https://mobile.twitter.com/NATO
+### [USA President Joe Biden's Twitter](https://mobile.twitter.com/JoeBiden)
+* https://mobile.twitter.com/JoeBiden
+* https://mobile.twitter.com/POTUS
+* Both of USA President Joe Biden's Twitter feeds.
+### [USA Secretary of State Antony Blinken's Twitter](https://mobile.twitter.com/POTUS)
+* USA Secretary of State Antony Blinken's Twitter feed.
+* https://mobile.twitter.com/POTUS
+### [Human Rights Watch's Twitter](https://twitter.com/hrw)
+* Human Rights Watch's Twitter feed.
+* https://twitter.com/hrw
+### [Amnesty International's Twitter](https://twitter.com/amnesty)
+* Amnesty International's Twitter feed.
+* https://twitter.com/amnesty
+### [UN Refugee Agency's Twitter](https://twitter.com/Refugees)
+* UN Refugee Agency's Twitter feed.
+* https://twitter.com/Refugees
+### [Free Press Unlimited's Twitter](https://twitter.com/freepressunltd)
+* Free Press Unlimited's Twitter feed.
+* https://twitter.com/freepressunltd
+### [Bellingcat Independent Collective](https://www.bellingcat.com/about/)
+* Collective of researchers, investigators and citizen journalists using open source and social media investigation.
+* https://www.bellingcat.com/about/
+### [CNN's Matthew Chance](https://twitter.com/mchancecnn)
+* CNN Senior Reporter Matthew Chance, (at the time of writing) in the Ukraine.
+* https://twitter.com/mchancecnn
+### [CNN's Frederik Pleigen](https://twitter.com/fpleitgenCNN)
+* CNN Senior Reporter Frederik Pleigen, (at the time of writing) in Russia near the border.
+* https://twitter.com/fpleitgenCNN
+### [The Washington Post's Isabelle Khurshudyan](https://twitter.com/ikhurshudyan)
+* The Washington Post's Foreign Correspondent, (at the time of writing) in Kyiv.
+* https://twitter.com/ikhurshudyan
+### [BBC Journalist Myroslava Petsa](https://twitter.com/myroslavapetsa)
+* BBC Journalist Myroslava Petsa, (at the time of writing) in Kyiv.
+* https://twitter.com/myroslavapetsa
 
 # Network/Internet
 ### [Horizon Live DDoS Map](https://horizon.netscout.com/)

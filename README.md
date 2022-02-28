@@ -25,7 +25,6 @@ A list of free resources that can help in the acquisition of open source intelli
 
 
 # Reputable Ukrainian News
-* https://www.bellingcat.com/about/
 ### [UA Ministry of Defense](https://twitter.com/defenceu)
 * Ukraine Ministry of Defense Twitter account.
 * https://twitter.com/defenceu

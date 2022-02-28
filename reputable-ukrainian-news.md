@@ -1,7 +1,7 @@
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 
-# Table of Contents
+# [Table of Contents:](/README.md)
 * [Intelligence Reporting](/README.md)
 * [Reputuable Ukrainian News](/reputable-ukrainian-news.md)
 * [Reputuable Non-Ukrainian News](/reputable-non-ukrainian-news.md)

@@ -3,15 +3,7 @@
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 
-# Table of Contents:
-* [Intelligence Reporting](/README.md)
-* [Reputuable Ukrainian News](/reputable-ukrainian-news.md)
-* [Reputuable Non-Ukrainian News](/reputable-non-ukrainian-news.md)
-* [Network & Internet](/network-internet.md)
-* [Translation & OCR's](/translation-ocr.md)
-* [Maps & Geographical Data](/maps-geological-data.md)
-* [Radio Communications & SDR's](/radio-communications.md)
-* [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)
+[Table of Contents](#table-of-contents)
 
 # Reputable Ukrainian News
 ### [UA Ministry of Defense](https://twitter.com/defenceu)
@@ -37,3 +29,13 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [The Kyiv Post](https://twitter.com/KyivPost)
 * Kyiv Post is the top source of English-language news about Ukraine since 1995.
 * https://twitter.com/KyivPost
+
+# Table of Contents
+* [Intelligence Reporting](/README.md)
+* [Reputuable Ukrainian News](/reputable-ukrainian-news.md)
+* [Reputuable Non-Ukrainian News](/reputable-non-ukrainian-news.md)
+* [Network & Internet](/network-internet.md)
+* [Translation & OCR's](/translation-ocr.md)
+* [Maps & Geographical Data](/maps-geological-data.md)
+* [Radio Communications & SDR's](/radio-communications.md)
+* [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)

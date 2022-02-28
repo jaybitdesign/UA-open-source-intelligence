@@ -44,7 +44,7 @@ A list of free resources that can help in the acquisition of open source intelli
 
 # Translation/OCR
 ### [Morse Code Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
-* Allows you to decode morese code from audio files.
+* Allows you to decode morse code from audio files.
 * https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 ### [Morse Code Translator](https://morsecode.world/international/translator.html)
 * Allows you to translate morse code from text.
@@ -70,6 +70,18 @@ A list of free resources that can help in the acquisition of open source intelli
 
 
 # Maps/Geographical Data
+### [Live UA Map](https://liveuamap.com/)
+* Displays news based on geographical location.
+* https://liveuamap.com/
+### [MAPHub Alternative To LiveUA Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
+* Displays news based on geographical location.
+* https://maphub.net/Cen4infoRes/russian-ukraine-monitor
+### [Sentinel Hub Satelite Imagery](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=48.89723&lng=30.47607&themeId=DEFAULT-THEME)
+* Live update archive of multiple satellites across the world.
+* https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=48.89723&lng=30.47607
+### [NASA Fire Tracker](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@30.8,50.4,9z)
+* Displays rough information about potential fires using satellites.
+* https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@30.8,50.4,9z
 ### [Ukraine Air Quality](https://www.breezometer.com/air-quality-map/air-quality/ukraine/kyiv)
 * Check the Air Quality in Kyiv, Ukraine
 * https://www.breezometer.com/air-quality-map/air-quality/ukraine/kyiv

@@ -21,7 +21,6 @@ A list of free resources that can help in the acquisition of open source intelli
 * Send defence intelligence to the official Secret Services telegram.
 * https://t.me/stop_russian_war_bot
 
-
 # Network/Internet
 ### [Horizon Live DDoS Map](https://horizon.netscout.com/)
 * Provides a highly contextualized real-time view of DDoS attacks.

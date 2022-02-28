@@ -28,7 +28,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * The Ukranian Minister of Foreign Affairs Twitter feed.
 * https://twitter.com/DmytroKuleba
 
-### [The Kyiv Independent](https://twitter.com/KyivIndependent)\
+### [The Kyiv Independent](https://twitter.com/KyivIndependent)
 * Top-notch English-language journalism in Ukraine.
 * https://twitter.com/KyivIndependent
 

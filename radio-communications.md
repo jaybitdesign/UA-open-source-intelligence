@@ -12,7 +12,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)
 
 # Radio Communications
-### [Software-Defined Radio](http://www.websdr.org/)
+### [Software-Defined Radio Stations](http://www.websdr.org/)
 * Software-Defined Radio receivers connected to the internet.
 * http://websdr.org/
 
@@ -34,7 +34,7 @@ A list of free resources that can help in the acquisition of open source intelli
 
 ### [Hungary Web SDR](http://fsdr.duckdns.org/?f=4649.50usbz0)
 * Web SDR receiver located in Szekesfehervar, Hungary
-* http://fsdr.duckdns.org/?f=4649.50usbz0
+* http://fsdr.duckdns.org/?f=5125usbz0
 
 ### [Romania Web SDR](http://sdr.yo3ksr.ro:8073/)
 * Web SDR receiver located in Romania.

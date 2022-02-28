@@ -3,7 +3,7 @@
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
 
-[Table of Contents](#table-of-contents)
+### [Table of Contents](#table-of-contents)
 
 # Reputable Ukrainian News
 ### [UA Ministry of Defense](https://twitter.com/defenceu)

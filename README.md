@@ -70,6 +70,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://twitter.com/freepressunltd
 ### [Bellingcat Independent Collective](https://www.bellingcat.com/about/)
 * Collective of researchers, investigators and citizen journalists using open source and social media investigation.
+* https://twitter.com/bellingcat
 * https://www.bellingcat.com/about/
 ### [CNN's Matthew Chance](https://twitter.com/mchancecnn)
 * CNN Senior Reporter Matthew Chance, (at the time of writing) in the Ukraine.

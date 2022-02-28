@@ -1,4 +1,3 @@
-![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)
 
 # UA open-source-intelligence
 A list of free resources that can help in the acquisition of open source intelligence.
@@ -31,4 +30,6 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://spyse.com/tools/dns-lookup
 ### [Website Informer](https://website.informer.com/)
 * Get a quick aggregated view of everything the Web can promptly tell you about a site.
-* https://website.informer.com/
+* https://website.informer.com
+
+![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)

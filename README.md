@@ -73,7 +73,7 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [Live UA Map](https://liveuamap.com/)
 * Displays news based on geographical location.
 * https://liveuamap.com/
-### [MAPHub Alternative To LiveUA Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
+### [MAPHub Alternative To Live UA Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
 * Displays news based on geographical location.
 * https://maphub.net/Cen4infoRes/russian-ukraine-monitor
 ### [Sentinel Hub Satelite Imagery](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=48.89723&lng=30.47607&themeId=DEFAULT-THEME)

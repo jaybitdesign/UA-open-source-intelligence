@@ -15,7 +15,7 @@ A list of free resources that can help in the acquisition of open source intelli
 # Encryption & Decryption
 
 ### [dCode.fr Cryptography Tools](https://www.dcode.fr/tools-list#cryptography)
-* A large list of cryptography tools that let you encode and decode.
+* A large list of cryptography tools that let you encode and decode messages.
 * https://www.dcode.fr/tools-list#cryptography
   * [Cipher Identifier](https://www.dcode.fr/cipher-identifier)
   * [Caesar Cipher](https://www.dcode.fr/caesar-cipher)

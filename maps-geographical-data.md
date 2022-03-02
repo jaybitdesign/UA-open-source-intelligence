@@ -20,7 +20,23 @@ A list of free resources that can help in the acquisition of open source intelli
 * Displays news based on geographical location.
 * https://maphub.net/Cen4infoRes/russian-ukraine-monitor
 
-### [Sentinel Hub Satelite Imagery](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=48.89723&lng=30.47607&themeId=DEFAULT-THEME)
+### [NASA's WorldView Satellite Imagery](https://worldview.earthdata.nasa.gov/)
+* Shows over 800 layers of satellite imagery. And typically, most have just a 3-hour delay in time.
+* https://worldview.earthdata.nasa.gov/
+
+### [USGS's Earth Explorer](https://earthexplorer.usgs.gov/)
+* Gives users 45+ satellite platforms to browse through.
+* https://earthexplorer.usgs.gov/
+
+### [Esri World Imagery Layer](https://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=10df2279f9684e4a9f6a7f08febac2a9)
+* Esri stitches together imagery from 300+ contributors around the globe.
+* https://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=10df2279f9684e4a9f6a7f08febac2a9
+
+### [Zoom EARTH - Live Weather Maps](https://zoom.earth/#view=48.5,31.51,6z)
+* Track tropical storms, hurricanes, severe weather, and wildfires with LIVE satellite images
+* https://zoom.earth/#view=48.5,31.51,6z
+
+### [Sentinel Hub Satelite Imagery](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=48.89723&lng=30.47607)
 * Live update archive of multiple satellites across the world.
 * https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=48.89723&lng=30.47607
 

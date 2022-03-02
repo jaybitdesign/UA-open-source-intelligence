@@ -5,13 +5,15 @@ A list of free resources that can help in the acquisition of open source intelli
 * [Intelligence Reporting](/README.md)
 * [Reputuable Ukrainian News](/reputable-ukrainian-news.md)
 * [Reputuable Non-Ukrainian News](/reputable-non-ukrainian-news.md)
-* [Network & Internet](/network-internet.md)
-* [Translation & OCR's](/translation-ocr.md)
 * [Maps & Geographical Data](/maps-geographical-data.md)
 * [Radio Communications & SDR's](/radio-communications.md)
 * [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)
+* [Network & Internet Tools](/network-internet.md)
+* [Translation & OCR's](/translation-ocr.md)
+* [Decryption & Encryption](/encryption-decryption.md)
 
 # Translation/OCR
+
 ### [Morse Code Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
 * Allows you to decode morse code from audio files.
 * https://morsecode.world/international/decoder/audio-decoder-adaptive.html

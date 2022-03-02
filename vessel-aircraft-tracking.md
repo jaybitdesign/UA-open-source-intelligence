@@ -5,13 +5,15 @@ A list of free resources that can help in the acquisition of open source intelli
 * [Intelligence Reporting](/README.md)
 * [Reputuable Ukrainian News](/reputable-ukrainian-news.md)
 * [Reputuable Non-Ukrainian News](/reputable-non-ukrainian-news.md)
-* [Network & Internet](/network-internet.md)
-* [Translation & OCR's](/translation-ocr.md)
 * [Maps & Geographical Data](/maps-geographical-data.md)
 * [Radio Communications & SDR's](/radio-communications.md)
 * [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)
+* [Network & Internet Tools](/network-internet.md)
+* [Translation & OCR's](/translation-ocr.md)
+* [Decryption & Encryption](/encryption-decryption.md)
 
 # Vessel/Aircraft Tracking
+
 ### [Flight Radar 24](https://www.flightradar24.com/)
 * The world’s most popular flight tracker.
 * https://www.flightradar24.com/

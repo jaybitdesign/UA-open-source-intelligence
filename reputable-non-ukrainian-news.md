@@ -13,11 +13,6 @@ A list of free resources that can help in the acquisition of open source intelli
 
 # Reputable Non-Ukrainian News
 
-### [Live UA Map's Twitter](https://twitter.com/Liveuamap)
-* News reporting based on specific locations.
-* https://liveuamap.com/
-* https://twitter.com/Liveuamap
-
 ### [NATO's Twitter](https://mobile.twitter.com/NATO)
 * NATO's Twitter feed.
 * https://www.nato.int/
@@ -39,6 +34,15 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://t.co/uYBOJow7MI
 * https://twitter.com/melaniejoly
 * https://twitter.com/canadafp
+
+### [Live UA Map's Twitter](https://twitter.com/Liveuamap)
+* News reporting based on specific locations.
+* https://liveuamap.com/
+* https://twitter.com/Liveuamap
+
+### [UK Defence Journal's Twitter](https://twitter.com/UKDefJournal)
+* Independent website publishing British and international defence news and analysis.
+* https://twitter.com/UKDefJournal
 
 ### [Human Rights Watch's Twitter](https://twitter.com/hrw)
 * Human Rights Watch's Twitter feed.

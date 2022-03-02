@@ -19,10 +19,10 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://twitter.com/NATO
 
 ### [USA President Joe Biden's Twitter](https://mobile.twitter.com/JoeBiden)
+* Both of USA President Joe Biden's Twitter feeds.
 * https://www.whitehouse.gov/
 * https://twitter.com/JoeBiden
 * https://twitter.com/POTUS
-* Both of USA President Joe Biden's Twitter feeds.
 
 ### [USA Secretary of State Antony Blinken's Twitter](https://mobile.twitter.com/POTUS)
 * USA Secretary of State Antony Blinken's Twitter feed.

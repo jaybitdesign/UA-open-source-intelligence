@@ -16,6 +16,10 @@ A list of free resources that can help in the acquisition of open source intelli
 * Provides a highly contextualized real-time view of DDoS attacks.
 * https://horizon.netscout.com/
 
+### [EFF's Cover Your Tracks](https://coveryourtracks.eff.org/)
+* Test your browser to see how well you are protected from tracking and fingerprinting.
+* https://coveryourtracks.eff.org/
+
 ### [CloudFlare Radar](https://radar.cloudflare.com/)
 * Shows network traffic all over the world.
 * https://radar.cloudflare.com/

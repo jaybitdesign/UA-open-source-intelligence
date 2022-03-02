@@ -26,14 +26,14 @@ A list of free resources that can help in the acquisition of open source intelli
 
 ### [USA Secretary of State Antony Blinken's Twitter](https://mobile.twitter.com/POTUS)
 * USA Secretary of State Antony Blinken's Twitter feed.
+* https://www.whitehouse.gov/
 * https://www.state.gov/secretary/
-* https://twitter.com/POTUS
 
 ### [Canada's Minister of Foreign Affair's Twitter](https://twitter.com/melaniejoly?lang=en)
 * Canada's Minister of Foreign Affair's Twitter feed.
-* https://t.co/uYBOJow7MI
 * https://twitter.com/melaniejoly
 * https://twitter.com/canadafp
+* https://t.co/uYBOJow7MI
 
 ### [Live UA Map's Twitter](https://twitter.com/Liveuamap)
 * News reporting based on specific locations.

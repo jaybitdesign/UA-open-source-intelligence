@@ -15,16 +15,30 @@ A list of free resources that can help in the acquisition of open source intelli
 # Encryption & Decryption
 
 ### [dCode.fr Cryptography Tools](https://www.dcode.fr/tools-list#cryptography)
-* Displays news based on geographical location.
+* A large list of cryptography tools that let you encode and decode.
 * https://www.dcode.fr/tools-list#cryptography
+  * [Cipher Identifier](https://www.dcode.fr/cipher-identifier)
+  * [Caesar Cipher](https://www.dcode.fr/caesar-cipher)
   * [Vigenere Cipher](https://www.dcode.fr/vigenere-cipher)
+  * [Polybius' Square](https://www.dcode.fr/polybius-cipher)
+  * [Circular Bit Shift](https://www.dcode.fr/circular-bit-shift)
+  * [MD5](https://www.dcode.fr/md5-hash)
 
-### [dCode.fr Cipher Identifier](https://www.dcode.fr/cipher-identifier)
-* Helps guess the type of encryption/encoding used to encrypt/encode a message
-* https://www.dcode.fr/cipher-identifier
+### [Cyber Chef Data Tools](https://gchq.github.io/CyberChef/)
+* A web app for encryption, decryption, compression and data analysis.
+* https://gchq.github.io/CyberChef/
+  * [AES Encrypt](https://gchq.github.io/CyberChef/#recipe=AES_Encrypt())
+  * [AES Decrypt](https://gchq.github.io/CyberChef/#recipe=AES_Decrypt())
+  * [Blowfish Encrypt](https://gchq.github.io/CyberChef/#recipe=Blowfish_Encrypt())
+  * [Blowfish Decrypt](https://gchq.github.io/CyberChef/#recipe=Blowfish_Decrypt())
+  * [RSA Encrypt](https://gchq.github.io/CyberChef/#recipe=RSA_Encrypt())
+  * [RSA Decrypt](https://gchq.github.io/CyberChef/#recipe=RSA_Decrypt())
+  * [Triple DES Encrypt](https://gchq.github.io/CyberChef/#recipe=Triple_DES_Encrypt())
+  * [Triple DES Decrypt](https://gchq.github.io/CyberChef/#recipe=Triple_DES_Decrypt())
+  * [MD5](https://gchq.github.io/CyberChef/#recipe=MD5())
 
-### [dCode.fr Caeser Cipher Decrypter](https://www.dcode.fr/caesar-cipher)
-* Caesar Cipher is one of the simplest and most widely known encryption techniques.
-* https://www.dcode.fr/caesar-cipher
+### [AES Encryption & Decryption](https://www.devglan.com/online-tools/aes-encryption-decryption)
+* Helps encrypt and decrypt Advanced Encryption Standard(AES)
+* https://www.devglan.com/online-tools/aes-encryption-decryption
 
 ![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)

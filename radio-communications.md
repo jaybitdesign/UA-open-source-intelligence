@@ -14,6 +14,18 @@ A list of free resources that can help in the acquisition of open source intelli
 
 # Radio Communications
 
+### [Morse Code World Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+* Allows you to decode morse code from audio files.
+* https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+
+### [Morse Code World Translator](https://morsecode.world/international/translator.html)
+* Allows you to translate morse code from text.
+* https://morsecode.world/international/translator.html
+
+### [dCode.fr's Morse Code Decoder](https://www.dcode.fr/morse-code)
+* Allows you to decode morse code from text.
+* https://www.dcode.fr/morse-code
+
 ### [Software-Defined Radio Stations](http://www.websdr.org/)
 * Software-Defined Radio receivers connected to the internet.
 * http://websdr.org/

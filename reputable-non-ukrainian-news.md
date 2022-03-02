@@ -13,10 +13,10 @@ A list of free resources that can help in the acquisition of open source intelli
 
 # Reputable Non-Ukrainian News
 
-### [Reuters News Twitter](https://www.reuters.com/)
-* Reuters is an international news organisation owned by Thomson Reuters.
-* https://www.reuters.com/
-* https://twitter.com/Reuters
+### [Live UA Map's Twitter](https://twitter.com/Liveuamap)
+* News reporting based on specific locations.
+* https://liveuamap.com/
+* https://twitter.com/Liveuamap
 
 ### [NATO's Twitter](https://mobile.twitter.com/NATO)
 * NATO's Twitter feed.
@@ -60,6 +60,11 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://www.freepressunlimited.org/en
 * https://twitter.com/freepressunltd
 
+### [Reuters News Twitter](https://www.reuters.com/)
+* Reuters is an international news organisation owned by Thomson Reuters.
+* https://www.reuters.com/
+* https://twitter.com/Reuters
+
 ### [Bellingcat Independent Collective's Twitter](https://twitter.com/bellingcat)
 * Collective of researchers, investigators and citizen journalists using open source and social media investigation.
 * https://www.bellingcat.com/about/
@@ -70,7 +75,7 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://www.washingtonpost.com/
 * https://twitter.com/washingtonpost
 
-### [The Washington Post's Isabelle Khurshudyan](https://twitter.com/ikhurshudyan)
+### [The Washington Post's Isabelle Khurshudyan's Twitter](https://twitter.com/ikhurshudyan)
 * The Washington Post's Foreign Correspondent, (at the time of writing) in Kyiv.
 * https://twitter.com/washingtonpost
 * https://twitter.com/ikhurshudyan

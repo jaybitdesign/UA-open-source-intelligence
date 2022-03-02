@@ -12,13 +12,26 @@ A list of free resources that can help in the acquisition of open source intelli
 * [Vessel & Aircraft Tracking](/vessel-aircraft-tracking.md)
 
 # Network & Internet
-### [Horizon Live DDoS Map](https://horizon.netscout.com/)
-* Provides a highly contextualized real-time view of DDoS attacks.
-* https://horizon.netscout.com/
+
+### [EFF - The Electronic Frontier Foundation](https://www.eff.org/about)
+* Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development.
+* https://www.eff.org/about
+
+### [EFF's HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* Browser Extension that encrypts your communications with many major websites.
+* https://www.eff.org/https-everywhere
+
+### [EFF's Privacy Badger](https://privacybadger.org/)
+* Browser extension that automatically learns to block invisible trackers.
+* https://privacybadger.org/
 
 ### [EFF's Cover Your Tracks](https://coveryourtracks.eff.org/)
 * Test your browser to see how well you are protected from tracking and fingerprinting.
 * https://coveryourtracks.eff.org/
+* 
+### [Horizon Live DDoS Map](https://horizon.netscout.com/)
+* Provides a highly contextualized real-time view of DDoS attacks.
+* https://horizon.netscout.com/
 
 ### [CloudFlare Radar](https://radar.cloudflare.com/)
 * Shows network traffic all over the world.

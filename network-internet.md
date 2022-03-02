@@ -28,7 +28,7 @@ A list of free resources that can help in the acquisition of open source intelli
 ### [EFF's Cover Your Tracks](https://coveryourtracks.eff.org/)
 * Test your browser to see how well you are protected from tracking and fingerprinting.
 * https://coveryourtracks.eff.org/
-* 
+
 ### [Horizon Live DDoS Map](https://horizon.netscout.com/)
 * Provides a highly contextualized real-time view of DDoS attacks.
 * https://horizon.netscout.com/

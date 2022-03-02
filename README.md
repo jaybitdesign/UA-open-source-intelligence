@@ -1,7 +1,7 @@
 ![OSINT](https://raw.githubusercontent.com/jaybitdesign/open-source-intelligence/main/osint.png)
 
 # UA open-source-intelligence
-A list of free resources that can help in the acquisition of open source intelligence.
+A list of free resources that can help in the acquisition of open source intelligence relating to the ongoing crisis in Ukraine.
 
 # Table of Contents:
 * [Intelligence Reporting](/README.md)

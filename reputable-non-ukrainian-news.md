@@ -42,8 +42,16 @@ A list of free resources that can help in the acquisition of open source intelli
 * https://twitter.com/Liveuamap
 
 ### [UK Defence Journal's Twitter](https://twitter.com/UKDefJournal)
-* Independent website publishing British and international defence news and analysis.
+* Independent website publishing British and international defence news and analysis.\
+* https://ukdefencejournal.org.uk/
 * https://twitter.com/UKDefJournal
+* https://twitter.com/Osinttechnical
+
+### [UKDJ's OSINT Technical](https://twitter.com/Osinttechnical)
+* Independent OSINT journalist (at the time of writing) in Kyiv.
+* https://ukdefencejournal.org.uk/
+* https://twitter.com/TheOsintBunker
+* https://twitter.com/Osinttechnical
 
 ### [Human Rights Watch's Twitter](https://twitter.com/hrw)
 * Human Rights Watch's Twitter feed.
